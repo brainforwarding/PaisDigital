@@ -1,4 +1,4 @@
-# PaisDigital
+# PaísDigital
 
 Aquí hay dos programas
 
