@@ -6,7 +6,7 @@ En este repositorio hay dos programas:
 
 Ambos programas hacen uso de GPT.
 
-## I. INSTRUCCIONES PARA "RESPONDE.PY"
+## I. Instrucciones para *responde.py*
 
 Este 
 
@@ -22,7 +22,7 @@ pip es el manejador de paquetes de Python, es decir, es el programa que te permi
 
 Si tienes cualquier duda, pregúnta a GPTChat! chat.openai.com
 
-## II. INSTRUCCIONES PARA "GRADEFAST.PY" 
+## II. Instrucciones para *grade_fast.py*
 
 Debes ejecutar este programa desde una carpeta donde también se encuentre una rúbrica en formato .csv que debe llamarse rubric.csv y una carpeta "essays_folder" con todos los ensayos para calificar en formato .docx (un documento para cada ensayo, indicando en su interior el nombre del autor/estudiante).
 
