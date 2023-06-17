@@ -4,7 +4,7 @@ Aquí hay dos programas
 
 ## I. INSTRUCCIONES PARA "RESPONDE.PY"
 
-Este programa toma una pregunta y la responde usando la API de GPT
+Este es el programa más básico que se puede desarrollar para integrarse a la API de ChatGPT. Toma una pregunta a través de la "línea de comando" (también llamada consola o terminal) y GPT la responde por la misma vía.
 
 Para usarlo,
 
