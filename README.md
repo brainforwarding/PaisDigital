@@ -6,17 +6,17 @@ Aquí hay dos programas
 
 Este es el programa más básico que se puede desarrollar para integrarse a la API de ChatGPT. Toma una pregunta a través de la "línea de comando" (también llamada consola o terminal) y GPT la responde por la misma vía.
 
-Para usarlo,
-
+Para usarlo:
 1. Ingresa tu API key (instrucciones más abajo en el código donde corresponde)
 2. Ejecuta el siguiente comando en la terminal: python responde.py "¿Cuánto dura un día en Marte?"
 (Si tienes Python 3.8 o superior, puedes ejecutarlo así: python3 responde.py "¿Cuánto dura un día en Marte?")
 
-Recuerda que debes tener instalado Python, lo puedes descargar aquí: https://www.python.org/downloads/ También debes tener instalado el paquete de OpenAI, lo puedes instalar en la terminal con: pip install openai
+Debes tener instalado Python. Lo puedes descargar aquí: https://www.python.org/downloads/ 
+También debes tener instalado el paquete de OpenAI, lo puedes instalar en la terminal con: pip install openai
 
-Qué es pip? pip es el manejador de paquetes de Python, es decir, es el programa que te permite instalar paquetes de Python Si no tienes pip, puedes instalarlo con en la terminal con: python -m pip install --upgrade pip
+pip es el manejador de paquetes de Python, es decir, es el programa que te permite instalar paquetes de Python Si no tienes pip, puedes instalarlo con en la terminal con: python -m pip install --upgrade pip
 
-Por último, si tienes cualquier pregunta, pregúnta a GPTChat! chat.openai.com
+Si tienes cualquier pregunta, pregúnta a GPTChat! chat.openai.com
 
 ## II. INSTRUCCIONES PARA "GRADEFAST.PY" 
 
