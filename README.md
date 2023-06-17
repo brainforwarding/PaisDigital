@@ -8,9 +8,9 @@ Este es el programa más básico que se puede desarrollar para integrarse a la A
 
 Para usarlo,
 
-Ingresa tu API key (instrucciones más abajo en el código donde corresponde)
-Ejecuta el siguiente comando en la terminal: python responde.py "¿Cuánto dura un día en Marte?"
-O bien, si tienes Python 3.8 o superior, puedes ejecutarlo así: python3 responde.py "¿Cuánto dura un día en Marte?"
+1. Ingresa tu API key (instrucciones más abajo en el código donde corresponde)
+2. Ejecuta el siguiente comando en la terminal: python responde.py "¿Cuánto dura un día en Marte?"
+(Si tienes Python 3.8 o superior, puedes ejecutarlo así: python3 responde.py "¿Cuánto dura un día en Marte?")
 
 Recuerda que debes tener instalado Python, lo puedes descargar aquí: https://www.python.org/downloads/ También debes tener instalado el paquete de OpenAI, lo puedes instalar en la terminal con: pip install openai
 
