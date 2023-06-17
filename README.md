@@ -2,7 +2,7 @@
 
 Aquí hay dos programas
 
-INSTRUCCIONES PARA RESPONDE.PY
+I. INSTRUCCIONES PARA "RESPONDE.PY"
 
 Este programa toma una pregunta y la responde usando la API de GPT
 
@@ -18,7 +18,9 @@ Qué es pip? pip es el manejador de paquetes de Python, es decir, es el programa
 
 Por último, si tienes cualquier pregunta, pregúnta a GPTChat! chat.openai.com
 
-INSTRUCCIONES PARA RESPONDE.PY Este programa toma una rúbrica en formato .csv que debe llamarse rubric.csv y una carpeta "essays_folder" con ensayos en formato .docx (un documento para cada ensayo, indicando en su interior el nombre del autor/estudiante)
+II. INSTRUCCIONES PARA "GRADEFAST.PY" 
+
+Este programa toma una rúbrica en formato .csv que debe llamarse rubric.csv y una carpeta "essays_folder" con ensayos en formato .docx (un documento para cada ensayo, indicando en su interior el nombre del autor/estudiante)
 
 El programa calificará los ensayos en base a la rúbrica, generando un archivo para cada ensayo en la misma carpeta
 
